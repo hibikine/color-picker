@@ -4,6 +4,13 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "@jaames/iro": "^5.1.8"
+    "@jaames/iro": "^5.1.8",
+    "gh-pages": "^3.1.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel --public-url https://hibikine.github.io/color-picker/ index.html",
+    "publish": "gh-pages -d dist"
+    ,"deploy": ""
   }
 }
