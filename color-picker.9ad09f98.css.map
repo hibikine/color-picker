@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"color-picker.9ad09f98.css","sourceRoot":"..","sourcesContent":["html, body {\n  margin: 0;\n  padding: 0;\n}\nbody > div {\n  margin: auto 0;\n  height: 100vh;\n}\nbody > div > button { \n  font-size: 4rem;\n}"]}

@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body > div {
+  margin: auto 0;
+  height: 100vh;
+}
+body > div > button { 
+  font-size: 4rem;
+}
+
+/*# sourceMappingURL=/color-picker.9ad09f98.css.map */
