@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@jaames/iro": "^5.1.8"
+  }
+}
