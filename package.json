@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel --public-url https://hibikine.github.io/color-picker/ index.html",
+    "build": "parcel build --public-url https://hibikine.github.io/color-picker/ index.html",
     "publish": "gh-pages -d dist"
     ,"deploy": ""
   }
